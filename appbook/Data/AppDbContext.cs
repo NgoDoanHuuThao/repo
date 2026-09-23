@@ -1,0 +1,31 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
+using appbook.Models.Domain;
+namespace appbook.Data
+{
+    public class AppDbContext : DbContext
+    {
+        public AppDbContext(DbContextOptions<AppDbContext> dbContextOptions)
+            : base(dbContextOptions)
+        {
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Book_Author>()
+                .HasOne(b => b.Book)
+                .WithMany(ba => ba.Book_Authors)
+                .HasForeignKey(bi => bi.BookId);
+
+            modelBuilder.Entity<Book_Author>()
+                .HasOne(b => b.Author)
+                .WithMany(ba => ba.Book_Authors)
+                .HasForeignKey(bi => bi.AuthorId);
+        }
+
+        public DbSet<Books> Books { get; set; }
+        public DbSet<Authors> Authors { get; set; }
+        public DbSet<Book_Author> Books_Authors { get; set; }
+        public DbSet<Publishers> Publishers { get; set; }
+    }
+}
