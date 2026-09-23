@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\dto\\bookwithauthorandpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\dto\\bookwithauthorandpublisherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\dto\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\migrations\\20260923131634_initialdatabasemigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\domain\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|c:\\users\\huuth\\onedrive\\ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{555F2AB6-C151-DC67-E0CE-F4A921120C3F}|appbook\\appbook.csproj|solutionrelative:appbook\\models\\domain\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,19 +78,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appbook\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.Development.json",
+              "RelativeToolTip": "appbook\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T15:05:35.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "appbook\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Properties\\launchSettings.json",
               "RelativeToolTip": "appbook\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-23T13:51:59.403Z"
+              "WhenOpened": "2026-09-23T13:51:59.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "appbook\\Controllers\\WeatherForecastController.cs",
@@ -98,19 +115,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "appbook\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Controllers\\BookController.cs",
               "RelativeToolTip": "appbook\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAYwPQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANcAAAAAAAAAAAA/wPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T13:32:59.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "addBookRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\DTO\\addBookRequestDTO.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\DTO\\addBookRequestDTO.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\DTO\\BookDTO.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20260923131634_InitialDatabaseMigration.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Migrations\\20260923131634_InitialDatabaseMigration.cs",
               "RelativeDocumentMoniker": "appbook\\Migrations\\20260923131634_InitialDatabaseMigration.cs",
@@ -146,32 +163,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Program.cs",
               "RelativeDocumentMoniker": "appbook\\Program.cs",
               "ToolTip": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Program.cs",
               "RelativeToolTip": "appbook\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T13:05:09.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.json",
               "RelativeDocumentMoniker": "appbook\\appsettings.json",
               "ToolTip": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\appsettings.json",
               "RelativeToolTip": "appbook\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-23T12:58:53.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BookWithAuthorAndPublisherDTO.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\DTO\\BookWithAuthorAndPublisherDTO.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "appbook\\Data\\AppDbContext.cs",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Book_Author.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\Domain\\Book_Author.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\Domain\\Book_Author.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Authors.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\Domain\\Authors.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\Domain\\Authors.cs",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Publishers.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\Domain\\Publishers.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\Domain\\Publishers.cs",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\huuth\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\web 2\\appbook\\appbook\\Models\\Domain\\Books.cs",
               "RelativeDocumentMoniker": "appbook\\Models\\Domain\\Books.cs",
