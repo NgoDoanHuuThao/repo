@@ -26,6 +26,6 @@ namespace appbook.Data
         public DbSet<Books> Books { get; set; }
         public DbSet<Authors> Authors { get; set; }
         public DbSet<Book_Author> Books_Authors { get; set; }
-        public DbSet<Publishers> Publishers { get; set; }
+        public DbSet<Publisher> Publishers { get; set; }
     }
 }

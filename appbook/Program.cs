@@ -1,4 +1,5 @@
 using appbook.Data;
+using appbook.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,10 @@ var connectionString =
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
+builder.Services.AddScoped<IBookRepository, SQLBookRepository>();
+builder.Services.AddScoped<IAuthorRepository, SQLAuthorRepository>();
+builder.Services.AddScoped<IPublisherRepository, SQLPublisherRepository>();
+
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
